@@ -15,13 +15,13 @@ This repository contains a simple web application built using Flask, allowing us
 - JavaScript
 
 ## How to Use:
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/kliz-andrei/Basic_MathCalcu.git
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the Flask application: `python app.py`
+3. Run the Flask application: `python server.py`
 4. Open `http://localhost:5000` in your web browser.
 
 ## Folder Structure:
-- `app.py`: Flask application setup and routes.
+- `server.py`: Flask application setup and routes.
 - `templates/`: HTML templates for rendering pages.
 - `static/`: Static files (CSS, JavaScript).
 
